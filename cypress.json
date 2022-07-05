@@ -1,0 +1,22 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "ignoreTestFiles": [
+    "**/1-getting-started/*",
+    "**/2-advanced-examples/*"
+  ],
+  "viewportHeight": 1080,
+  "viewportWidth": 1920,
+  "projectId": "73fm2n",
+  "retries": {
+    "runMode": 2
+  },
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  },
+  "env": {
+    "username": "fahim.arshad@devsinc.com",
+    "password": "fahim.arshad541",
+    "apiUrl": "https://api.realworld.io"
+  }
+}
