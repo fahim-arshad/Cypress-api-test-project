@@ -15,8 +15,8 @@
     "configFile": "reporter-config.json"
   },
   "env": {
-    "username": "fahim.arshad@devsinc.com",
-    "password": "fahim.arshad541",
+    "username": "fahim.arshad@example.com",
+    "password": "fahimarshad",
     "apiUrl": "https://api.realworld.io"
   }
 }
